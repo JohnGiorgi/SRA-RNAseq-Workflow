@@ -1,0 +1,5 @@
+Requirements
+
+trim_galore
+cutadapt
+STAR

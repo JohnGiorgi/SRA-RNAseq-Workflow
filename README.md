@@ -6,17 +6,19 @@ cleaned reads to a reference genome.
 
 ## Dependencies
 
+This assumes that you have `pip` installed. I have not tested installation with other package managers (but I suspect `brew install` should work as well). 
+
 ### trim_galore
 
 placeholder
 
 ### cutadapt
 
-placeholder
+To download cutadapt, either visit the github page [here](https://github.com/marcelm/cutadapt) or simply use `pip install cutadapt`
 
 ### STAR
 
-placeholder
+To download STAR, either visit the projects github page [here](https://github.com/alexdobin/STAR) or simply use `pip install STAR`
 
 ## Installation
 

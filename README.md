@@ -18,7 +18,7 @@ To download cutadapt, either visit the github page [here](https://github.com/mar
 
 ### STAR
 
-To download STAR, either visit the projects github page [here](https://github.com/alexdobin/STAR) or simply use `pip install STAR`
+To download STAR,  visit the projects github page [here](https://github.com/alexdobin/STAR)
 
 ## Installation
 
